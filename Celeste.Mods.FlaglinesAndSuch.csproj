@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <AssemblyName>Celeste.Mods.FlaglinesAndSuch</AssemblyName>
+        <RootNamespace>Celeste.Mods.FlaglinesAndSuch</RootNamespace>
+    </PropertyGroup>
+    <ItemGroup>
+        <ProjectReference Include="$(SharedRoot)/src/Celeste.Game.Runtime/Celeste.Game.Runtime.csproj" Private="false" />
+    </ItemGroup>
+</Project>

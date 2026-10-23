@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "FlaglinesAndSuch",
+  "version": "1.6.80",
+  "mode": "source",
+  "archive": {
+    "path": "FlaglinesAndSuch.zip",
+    "sha256": "fb0fd300f95d77539eb9079aed445c81f263557c1a1715187bd509d39c1eb794",
+    "downloadUrl": "https://gamebanana.com/mmdl/1792428",
+    "fileId": 1792428
+  },
+  "originalAssembly": {
+    "entry": "bin/FlaglinesAndSuch.dll",
+    "sha256": "42801778b18505cd4455e59e5c3865f3f0268580d73e256e886b531cd8025ede"
+  },
+  "license": "MIT",
+  "upstream": "https://gamebanana.com/mods/53762"
+}
