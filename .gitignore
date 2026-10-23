@@ -1,0 +1,9 @@
+**/bin/
+**/obj/
+/artifacts/
+/input/
+/generated/
+/.idea/
+/.vs/
+*.user
+*.log
